@@ -37,7 +37,10 @@ In each phase,
 2. a database will be constructed for optimal data retreival
 3. an algorithm for the rules of chess will be devised in coordination with the ML algorithm to be implemented
 
+## Textbook Reference
+#### C++
 
+#### AI
 
 
 
